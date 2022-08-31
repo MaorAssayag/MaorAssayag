@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQEY-7Lxiys-_g/profile-displaybackgroundimage-shrink_350_1400/0/1648221212205?e=1667433600&v=beta&t=x7PsSGy4oqr3MKkrta855KXAsc2zQcYiFZ0exlZCQwE" alt="maskfruc"/>
-</p>
+Hey 👋
 
 <p align="left"><br>
 <a href="https://github.com/MaorAssayag">
