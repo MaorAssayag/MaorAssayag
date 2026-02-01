@@ -1,10 +1,16 @@
+
+
+![Its me on Github](https://utils.koyeb.app/github/api/github-stats?username=maorassayag&timezone=IST)
+<!-- 
 # Hi 👋
+
 
 <p align="left">
 <a href="https://github.com/MaorAssayag">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaorAssayag&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
 </a>
-</p>
+</p> -->
 
 ---
 
@@ -14,5 +20,3 @@
 ![Fabio](https://img.shields.io/badge/Fabio-5396D8?style=flat&logo=f-secure&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
