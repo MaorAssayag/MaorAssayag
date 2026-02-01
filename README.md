@@ -1,6 +1,6 @@
 
 
-![Its me on Github](https://utils.koyeb.app/github/api/github-stats?username=maorassayag&timezone=IST)
+![Its me on Github](https://utils.koyeb.app/github/api/github-stats?username=maorassayag&timezone=IST&title=builder)
 <!-- 
 # Hi 👋
 
@@ -19,4 +19,4 @@
 ![Consul](https://img.shields.io/badge/Consul-FF4088?style=flat&logo=consul&logoColor=white) 
 ![Fabio](https://img.shields.io/badge/Fabio-5396D8?style=flat&logo=f-secure&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
