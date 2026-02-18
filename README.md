@@ -153,11 +153,12 @@ I love building solutions at the intersection of DSP, ML/DL, and scalable system
 
 <p>
 <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="Golang" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img alt="Erlang" src="https://img.shields.io/badge/-Erlang-A90533?style=flat-square&logo=erlang&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img alt="VHDL" src="https://img.shields.io/badge/-VHDL-005299?style=flat-square" />
@@ -186,7 +187,7 @@ I love building solutions at the intersection of DSP, ML/DL, and scalable system
 
 #### Currently playing with
 <p>
-  <img alt="Cursor" src="https://img.shields.io/badge/-Cursor-50E3C2?style=flat-square&logo=cursor&logoColor=white" />
+<img alt="Cursor" src="https://img.shields.io/badge/-Cursor-50E3C2?style=flat-square&logo=cursor&logoColor=white" />
 <img alt="Claude" src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 <img alt="Gemini" src="https://img.shields.io/badge/-Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" />
 <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
